@@ -35,4 +35,4 @@ Today you will be teaching students how JavaScript arrays and loops work, and ho
 
 *2:50 - 3:00* **Daily wrap up**
 
-<a href='https://learn.co/lessons/hs-advanced-web-design-day1-masterplan-js-basics' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-advanced-web-design-day1-masterplan-js-basics' title='BugFix'>BugFix</a> on Learn.co and start learning to code for free.</p>
